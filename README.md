@@ -1,2 +1,2 @@
 # ComposeCodelab
-Followed the [Compose Codelab]()https://developer.android.com/codelabs/jetpack-compose-basics by Google
+Followed the [Compose Codelab](https://developer.android.com/codelabs/jetpack-compose-basics) by Google
